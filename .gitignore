@@ -1,0 +1,5 @@
+kafka-producer-test/build
+kafka-producer-test/gradle
+kafka-producer-test/gradlew
+kafka-producer-test/gradlew.bat
+kafka-producer-test/.gradle
